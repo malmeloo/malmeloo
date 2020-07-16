@@ -7,6 +7,7 @@ I often work on my own personal projects, some of which I publish here for all o
 My main and most popular project right now is [Wiimmfi-RPC](https://github.com/DismissedGuy/wiimmfi-rpc).
 
 💬 HMU on Discord: DismissedGuy#2118
+
 📫 Email me: dismissed.is.a.guy@gmail.com
 
 <!--
