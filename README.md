@@ -4,7 +4,11 @@
   
   <img src="https://badges.pufler.dev/visits/DismissedGuy/dismissedguy?label=Profile+views">
   <img src="https://badges.pufler.dev/years/DismissedGuy?label=Profile+age">
-  <img src="https://img.shields.io/badge/Awesomeness%20rank-A%2B%2B-blue">
+  <br>
+  <img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+  <img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white">
+  <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </div>
 
 <br/>
@@ -27,11 +31,7 @@
 <br>
 
 <div align="center">
-  <h1>Some statistics</h1>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DismissedGuy&theme=github_dark">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DismissedGuy&theme=github_dark">
+  <h1>📈 Some statistics</h1>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DismissedGuy&theme=dark">
 </div>
