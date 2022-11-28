@@ -2,8 +2,6 @@
 <div align="center">
   <h1>Heya! I'm Mike. 👋</h1>
   
-  <img src="https://badges.pufler.dev/visits/DismissedGuy/dismissedguy?label=Profile+views">
-  <img src="https://badges.pufler.dev/years/DismissedGuy?label=Profile+age+(years)">
   <img src="https://wakatime.com/badge/user/9555cc8c-3be5-4d08-afde-58be2d556fb0.svg">
   <br>
   <img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white">
@@ -18,14 +16,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=DismissedGuy&theme=dark&show_icons=true">
   
   <h3 align="left">
-    I'm an 18 year old programmer from the Netherlands.
+    I'm a 19 year old programmer from the Netherlands.
   </h3>
   <ul>
     <li>🎓️ Studying TCS at the University of Twente</li>
-    <li>💀 Currently learning Java (and <a href="https://github.com/nim-lang/Nim">Nim</a>!)</li>
     <li>🐍 Bit of a Python addict</li>
-    <li>🕸️ P2P networks are fascinating</li>
-    <li>📡 I like collecting and processing realtime data</li>
+    <li>📦 Containerizing the world!</li>
+    <li>🧦 Socket programming hypes me up</li>
+    <li>📊 Collecting <i>all</i> the data</li>
   </ul>
 </div>
 
