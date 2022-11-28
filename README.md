@@ -15,10 +15,10 @@
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=DismissedGuy&theme=dark&show_icons=true">
   
-  <h3 align="left" width="50%">
+  <h3 align="left" style="width: 50%">
     I'm a 19 year old programmer from the Netherlands.
   </h3>
-  <ul width="50%>
+  <ul  style="width: 50%">
     <li>🎓️ Studying TCS at the University of Twente</li>
     <li>🐍 Bit of a Python addict</li>
     <li>📦 Containerizing the world!</li>
