@@ -13,7 +13,7 @@
 <br/>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DismissedGuy&theme=dark&show_icons=true">
+  <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Favourite%20Technologies&lineHeight=30&lineCount=3&theme=catppuccin_macchiato&hideTitle=true&line1=python,Python,3776AB;nim,Nim,FFE953;javascript,JavaScript,F7DF1E;openjdk,Java,FFFFFF;&line2=podman,Podman,892CA0;nginx,Nginx,009639;linux,Linux,FCC624;wireguard,Wireguard,88171A;&line3=Pop!_OS,Pop!_OS,48B9C7;android,Android,3DDC84;magisk,Magisk,00AF9C;gnome,Gnome,4A86CF;" alt="My Tech Stack" />
   
   <h3 align="left" style="width: 50%">
     I'm a 19 year old programmer from the Netherlands.
@@ -30,8 +30,7 @@
 <br>
 
 <div align="center">
-  <h1>📈 Some statistics</h1>
+  <h1>📈 Wakatime statistics</h1>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DismissedGuy&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DismissedGuy&theme=dark">
 </div>
