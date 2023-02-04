@@ -29,7 +29,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h1>🎮 Let's play Othello!</h1>
   
 <!-- START GAME -->
