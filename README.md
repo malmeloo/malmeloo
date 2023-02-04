@@ -30,7 +30,10 @@
 <br>
 
 <div align="center">
-  <h1>📈 Wakatime statistics</h1>
+  <h1>🎮 Let's play Othello!</h1>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DismissedGuy&theme=dark">
+<!-- START GAME -->
+
+<!-- END GAME -->
+
 </div>
