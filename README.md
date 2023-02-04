@@ -33,7 +33,33 @@
   <h1>🎮 Let's play Othello!</h1>
   
 <!-- START GAME -->
+| |a|b|c|d|e|f|g|h|
+|-|-|-|-|-|-|-|-|-|
+|1| | | | | | | | |
+|2| | | | | | | | |
+|3| | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Reversi%7Cmove%7Cd3)| | | | |
+|4| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Reversi%7Cmove%7Cc4)|⬜|⬛| | | |
+|5| | | |⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Reversi%7Cmove%7Cf5)| | |
+|6| | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Reversi%7Cmove%7Ce6)| | | |
+|7| | | | | | | | |
+|8| | | | | | | | |
 
-<!-- END GAME -->
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
+
+<table>
+<tr>
+<th>Winning mark</th>
+</tr><tr>
+<td>
+
+<table>
+<tr><td>⬜</td><td>0</td></tr>
+<tr><td>Draw</td><td>0</td></tr>
+<tr><td>⬛</td><td>0</td></tr>
+</table>
+
+</td>
+</tr>
+</table><!-- END GAME -->
 
 </div>
