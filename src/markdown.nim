@@ -13,9 +13,9 @@ let COMMENT_RE = re"^<!--(.+?)-->$"
 proc getIssueUrl(move: int): string =
   var moveStr: string
   if move < 0:  # new game
-    moveStr = "Reversi|newgame"
+    moveStr = "Othello|newgame"
   else:
-    moveStr = fmt"Reversi|move|{indexToLetters(move mod BOARD_SIZE_X)}{move div BOARD_SIZE_X + 1}"
+    moveStr = fmt"Othello|move|{indexToLetters(move mod BOARD_SIZE_X)}{move div BOARD_SIZE_X + 1}"
   return fmt"https://github.com/{GITHUB_REPO}/issues/new?title=" & encodeUrl(moveStr)
 
 proc getStatusMessage(board: Board): string =
