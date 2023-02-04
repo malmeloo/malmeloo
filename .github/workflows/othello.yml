@@ -1,0 +1,60 @@
+name: Othello
+
+on:
+  issues:
+    types: [opened]
+  
+  workflow_dispatch:
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    concurrency: do-move
+    if: startsWith(github.event.issue.title, 'Othello|')
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Cache Nim binary
+        id: cache-bin
+        uses: actions/cache@v3
+        with:
+          path: .cache/
+          key: cache-${{ hashFiles('src/*') }}
+
+      - if: ${{ steps.cache-bin.outputs.cache-hit != 'true' }}
+        name: Setup Nim
+        uses: jiro4989/setup-nim-action@v1
+        with:
+          nim-version: '1.6.10'
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - if: ${{ steps.cache-bin.outputs.cache-hit != 'true' }}
+        name: Compile program
+        run: |
+          nim c -d:danger -d:ssl --out:.cache/main src/main.nim
+          chmod +x .cache/main
+      
+      - name: Process move
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          USERNAME: ${{ github.event.issue.user.login }}
+        run: |
+          echo ".cache/main ${USERNAME} ${ISSUE_TITLE#*|}"
+          .cache/main "${USERNAME}" "${ISSUE_TITLE#*|}"
+      
+      - if: success()
+        name: Commit and push changes
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          USERNAME: ${{ github.event.issue.user.login }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "${ISSUE_TITLE#*|} by ${USERNAME}"
+          git push
