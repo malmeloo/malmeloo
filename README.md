@@ -36,15 +36,15 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1| | | | | | | | |
-|2| | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd2)| | | | |
-|3| | | |⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce3)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf3)| | |
-|4| | | |⬛|⬛| | | |
-|5| | |⬜|⬜|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf5)| | |
-|6| | | | |⬛| | | |
-|7| | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf7)| | |
+|2| | | | | | | | |
+|3| | | |⬛| | | | |
+|4| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬛| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg4)| |
+|5| | |⬜|⬜|⬜|⬜| | |
+|6| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb6)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc6)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd6)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf6)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg6)| |
+|7| | | | | | | | |
 |8| | | | | | | | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -53,12 +53,12 @@ It's currently ⬜'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@DismissedGuy</td><td>f5</td><td>⬜</td><td>2023-02-06 12:23:41 (UTC)</td></tr>
 <tr><td>@djactor</td><td>e6</td><td>⬛</td><td>2023-02-06 12:22:43 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>c5</td><td>⬜</td><td>2023-02-06 12:22:02 (UTC)</td></tr>
 <tr><td>@djactor</td><td>d3</td><td>⬛</td><td>2023-02-06 12:21:30 (UTC)</td></tr>
 <tr><td>@djactor</td><td>g8</td><td>⬛</td><td>2023-02-06 10:55:46 (UTC)</td></tr>
 <tr><td>@JanBannink</td><td>f7</td><td>⬜</td><td>2023-02-06 10:55:15 (UTC)</td></tr>
-<tr><td>@djactor</td><td>h7</td><td>⬛</td><td>2023-02-06 10:54:31 (UTC)</td></tr>
 </table>
 
 </td><td>
