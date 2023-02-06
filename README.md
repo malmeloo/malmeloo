@@ -36,15 +36,15 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1| | | | | | | | |
-|2| | | | | | | | |
-|3| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc3)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce3)| | | |
-|4| | | |⬛|⬛| | | |
-|5| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc5)|⬛|⬜| | | |
-|6| | | | | | | | |
+|2| | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf2)| | |
+|3| | | |⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf3)| | |
+|4| | | |⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf4)| | |
+|5| | | |⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf5)| | |
+|6| | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf6)| | |
 |7| | | | | | | | |
 |8| | | | | | | | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
