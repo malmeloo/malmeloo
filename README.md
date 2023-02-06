@@ -36,15 +36,15 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1|⬜|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
-|2|⬛|⬛|⬜|⬜|⬜|⬜|⬜|⬜|
-|3|⬛|⬛|⬜|⬜|⬜|⬜|⬜|⬜|
-|4|⬛|⬛|⬜|⬛|⬜|⬜|⬜|⬜|
-|5|⬛|⬛|⬜|⬜|⬛|⬛|⬜|⬜|
-|6|⬛|⬛|⬜|⬜|⬛|⬛|⬛|⬜|
-|7|⬛|⬛|⬛|⬛|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg7)|⬛|
-|8|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb8)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd8)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf8)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch8)|
+|2|⬛|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
+|3|⬛|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
+|4|⬛|⬜|⬜|⬛|⬜|⬜|⬜|⬜|
+|5|⬛|⬜|⬜|⬜|⬛|⬛|⬜|⬜|
+|6|⬛|⬜|⬜|⬜|⬛|⬛|⬛|⬜|
+|7|⬛|⬜|⬜|⬛|⬛|⬛| |⬛|
+|8|⬜|⬜|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd8)|⬜| |⬛| |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
