@@ -36,15 +36,15 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
-|2|⬛|⬛|⬛|⬛|⬛|⬛|⬜|⬜|
-|3|⬜|⬛|⬛|⬛|⬛|⬜|⬜|⬜|
-|4|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca4)|⬜|⬛|⬛|⬜|⬜|⬜|⬜|
-|5|⬜|⬜|⬜|⬜|⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg5)|⬜|
+|2|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
+|3|⬜|⬛|⬛|⬛|⬛|⬜|⬛|⬜|
+|4| |⬜|⬛|⬛|⬜|⬛|⬛|⬜|
+|5|⬜|⬜|⬜|⬜|⬛|⬛|⬛|⬜|
 |6|⬛|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
-|7|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf7)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch7)|
+|7|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca7)| | | | | |⬜| |
 |8| | | | | | | |⬜|
 
-It's currently ⬛'s turn. Click on a highlighted field to make a move!
+It's currently ⬜'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -53,12 +53,12 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
-<tr><td>@JanBannink</td><td>⬜</td></tr>
-<tr><td>@djactor</td><td>⬛</td></tr>
-<tr><td>@JanBannink</td><td>⬜</td></tr>
-<tr><td>@djactor</td><td>⬛</td></tr>
-<tr><td>@JanBannink</td><td>⬜</td></tr>
-<tr><td>@djactor</td><td>⬛</td></tr>
+<tr><td>@djactor</td><td>bm</td><td>⬛</td><td>2023-02-06 10:45:04 (UTC)</td></tr>
+<tr><td>@JanBannink</td><td>cl</td><td>⬜</td><td>2023-02-06 10:43:57 (UTC)</td></tr>
+<tr><td>@djactor</td><td>g</td><td>⬛</td><td>2023-02-06 10:42:59 (UTC)</td></tr>
+<tr><td>@JanBannink</td><td>bu</td><td>⬜</td><td>2023-02-06 10:40:59 (UTC)</td></tr>
+<tr><td>@djactor</td><td>cc</td><td>⬛</td><td>2023-02-06 10:40:09 (UTC)</td></tr>
+<tr><td>@JanBannink</td><td>bg</td><td>⬜</td><td>2023-02-06 10:39:12 (UTC)</td></tr>
 </table>
 
 </td><td>
