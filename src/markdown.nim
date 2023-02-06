@@ -1,4 +1,4 @@
-import std/[strutils, strformat, sequtils, algorithm, sugar, tables, nre, uri]
+import std/[strutils, strformat, tables, nre, uri]
 
 import board
 import config
@@ -31,12 +31,14 @@ proc getStatusMessage(board: Board): string =
   result &= "\n"
 
 proc formatStatTable(table: StatTable): string =
-  var pairs = table.pairs.toSeq.sorted((fst, snd) => fst[1] > snd[1])
-  pairs = pairs[0 .. min(MAX_STAT_ENTRIES, pairs.len - 1)]
+  var cutTable = table[0 .. min(MAX_STAT_ENTRIES, table.len - 1)]
   
   result &= "<table>\n"
-  for pair in pairs:
-    result &= "<tr><td>" & pair[0] & "</td><td>" & $pair[1] & "</td></tr>\n"
+  for row in cutTable:
+    result &= "<tr>"
+    for col in row:
+      result &= "<td>" & col & "</td>"
+    result &= "</tr>\n"
   result &= "</table>"
 
 proc createHorizontalTable(contents: Table[string, string]): string =
