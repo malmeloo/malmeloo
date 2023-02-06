@@ -36,8 +36,8 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1|⬛|⬛|⬛|⬛|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg1)|⬜|
-|2|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca2)|⬜|⬜|⬜|⬛|⬜|⬜|⬜|
-|3|⬜|⬜|⬜|⬛|⬜|⬜|⬜|⬜|
+|2|⬛|⬛|⬛|⬛|⬛|⬜|⬜|⬜|
+|3|⬜|⬛|⬜|⬛|⬜|⬜|⬜|⬜|
 |4|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca4)|⬜|⬛|⬜|⬜|⬜|⬜|⬜|
 |5|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca5)|⬜|⬛|⬜|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg5)|⬜|
 |6|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca6)|⬜|⬜|⬜|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg6)|⬜|
@@ -54,11 +54,11 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr><td>@djactor</td><td>⬛</td></tr>
-<tr><td>@JanBannink</td><td>⬜</td></tr>
 <tr><td>@djactor</td><td>⬛</td></tr>
 <tr><td>@JanBannink</td><td>⬜</td></tr>
 <tr><td>@djactor</td><td>⬛</td></tr>
 <tr><td>@JanBannink</td><td>⬜</td></tr>
+<tr><td>@djactor</td><td>⬛</td></tr>
 </table>
 
 </td><td>
