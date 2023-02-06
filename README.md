@@ -37,12 +37,12 @@
 |-|-|-|-|-|-|-|-|-|
 |1|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
 |2|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
-|3|⬜|⬛|⬛|⬛|⬛|⬜|⬛|⬜|
-|4|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca4)|⬜|⬛|⬛|⬜|⬛|⬛|⬜|
+|3|⬛|⬛|⬛|⬛|⬛|⬜|⬛|⬜|
+|4|⬛|⬛|⬛|⬛|⬜|⬛|⬛|⬜|
 |5|⬜|⬜|⬜|⬜|⬛|⬛|⬛|⬜|
 |6|⬜|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
 |7|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf7)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch7)|
-|8| | | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg8)|⬜|
+|8|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca8)| | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg8)|⬜|
 
 It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
@@ -53,12 +53,12 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@djactor</td><td>y</td><td>⬛</td><td>2023-02-06 10:46:57 (UTC)</td></tr>
 <tr><td>@JanBannink</td><td>bw</td><td>⬜</td><td>2023-02-06 10:45:55 (UTC)</td></tr>
 <tr><td>@djactor</td><td>bm</td><td>⬛</td><td>2023-02-06 10:45:04 (UTC)</td></tr>
 <tr><td>@JanBannink</td><td>cl</td><td>⬜</td><td>2023-02-06 10:43:57 (UTC)</td></tr>
 <tr><td>@djactor</td><td>g</td><td>⬛</td><td>2023-02-06 10:42:59 (UTC)</td></tr>
 <tr><td>@JanBannink</td><td>bu</td><td>⬜</td><td>2023-02-06 10:40:59 (UTC)</td></tr>
-<tr><td>@djactor</td><td>cc</td><td>⬛</td><td>2023-02-06 10:40:09 (UTC)</td></tr>
 </table>
 
 </td><td>
