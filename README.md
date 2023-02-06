@@ -35,16 +35,16 @@
 <!-- START GAME -->
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
-|1| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb1)|⬜|⬜| |⬛| |⬜|
-|2|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca2)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb2)|⬜|⬜|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf2)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch2)|
-|3|⬜|⬜|⬜|⬛|⬜|⬛|⬜|⬛|
+|1| | |⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce1)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg1)|⬜|
+|2| | |⬜|⬜|⬛|⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch2)|
+|3|⬜|⬜|⬜|⬛|⬜|⬛|⬛|⬛|
 |4|⬜|⬜|⬜|⬜|⬜|⬜|⬜|⬛|
 |5|⬜|⬜|⬜|⬜|⬜|⬜|⬜|⬛|
 |6|⬜|⬜|⬜|⬜|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf6)|⬜| |
-|7| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb7)|⬛|⬛|⬛|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch7)|
-|8| | |⬛| |⬜| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg8)| |
+|7| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb7)|⬛|⬛|⬛|⬜| | |
+|8| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb8)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cd8)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf8)| | |
 
-It's currently ⬛'s turn. Click on a highlighted field to make a move!
+It's currently ⬜'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
