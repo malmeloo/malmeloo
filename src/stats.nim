@@ -1,4 +1,4 @@
-import std/[tables, options, sugar, algorithm]
+import std/[tables, options, sugar, algorithm, times]
 
 import board
 import gamedb
@@ -55,7 +55,11 @@ proc getMoveHistory*(): StatTable =
   history.reverse()
 
   for move in history:
+    let dt = fromUnix(move.timestamp).inZone(utc())
+
     result.add(@[
       "@" & move.author,
-      $move.mark
+      indexToLetters(move.pos),
+      $move.mark,
+      dt.format("yyyy-MM-dd HH:mm:ss") & " (UTC)"
     ])
