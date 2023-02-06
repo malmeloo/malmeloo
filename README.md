@@ -40,11 +40,11 @@
 |3|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
 |4|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
 |5|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
-|6|⬛|⬛|⬛|⬛|⬛|⬛|⬜|⬜|
-|7|⬛|⬛|⬛|⬛|⬛|⬜|⬜|⬛|
-|8|⬛|⬛|⬛|⬛|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg8)|⬜|
+|6|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
+|7|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬛|
+|8|⬛|⬛|⬛|⬛|⬛|⬛|⬛|⬜|
 
-It's currently ⬛'s turn. Click on a highlighted field to make a move!
+Congratulations to ⬛ for winning the game! [Click here](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cnewgame) to play again.
 
 <table>
 <tr>
@@ -53,19 +53,19 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@djactor</td><td>g8</td><td>⬛</td><td>2023-02-06 10:55:46 (UTC)</td></tr>
 <tr><td>@JanBannink</td><td>f7</td><td>⬜</td><td>2023-02-06 10:55:15 (UTC)</td></tr>
 <tr><td>@djactor</td><td>h7</td><td>⬛</td><td>2023-02-06 10:54:31 (UTC)</td></tr>
 <tr><td>@djactor</td><td>e7</td><td>⬛</td><td>2023-02-06 10:53:50 (UTC)</td></tr>
 <tr><td>@djactor</td><td>d7</td><td>⬛</td><td>2023-02-06 10:53:10 (UTC)</td></tr>
 <tr><td>@djactor</td><td>f8</td><td>⬛</td><td>2023-02-06 10:52:26 (UTC)</td></tr>
-<tr><td>@JanBannink</td><td>e8</td><td>⬜</td><td>2023-02-06 10:51:49 (UTC)</td></tr>
 </table>
 
 </td><td>
 
 <table>
 <tr><td>⬜</td><td>2</td></tr>
-<tr><td>⬛</td><td>0</td></tr>
+<tr><td>⬛</td><td>1</td></tr>
 <tr><td>Draw</td><td>0</td></tr>
 </table>
 
