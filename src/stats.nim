@@ -46,3 +46,16 @@ proc getMarkWinStats*(): StatTable =
   for pair in scores.pairs:
     result.add(@[pair[0], $pair[1]])
   result.sort((p1, p2) => cmp(p1[1], p2[1]), SortOrder.Descending)
+
+proc getMoveHistory*(): StatTable =
+  var history: seq[Move]
+  for game in getAllGames():
+    for move in game.moveHistory:
+      history.add(move)
+  history.reverse()
+
+  for move in history:
+    result.add(@[
+      "@" & move.author,
+      $move.mark
+    ])

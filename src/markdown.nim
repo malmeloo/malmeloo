@@ -96,7 +96,8 @@ proc getGameRepr(board: Board): string =
   result &= "\n" & getStatusMessage(board)
 
   result &= "\n" & createHorizontalTable({
-    "Winning mark": formatStatTable(getMarkWinStats())
+    "Winners": formatStatTable(getMarkWinStats()),
+    "Move History": formatStatTable(getMoveHistory())
   }.toTable)
 
 proc updateFile*(board: Board): bool =
