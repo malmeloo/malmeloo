@@ -35,16 +35,16 @@
 <!-- START GAME -->
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
-|1|⬛|⬛|⬛|⬜|⬜| | |⬜|
-|2| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb2)|⬛|⬛|⬜|⬜|⬜|⬜|
-|3|⬜|⬜|⬛|⬜|⬜|⬜|⬜|⬜|
-|4| |⬜|⬛|⬜|⬜|⬜|⬜|⬜|
-|5| |⬜|⬛|⬜|⬜|⬜| |⬜|
-|6| |⬜|⬜|⬜|⬜|⬜| |⬜|
-|7| | | | | | | | |
+|1|⬛|⬛|⬛|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf1)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg1)|⬜|
+|2|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca2)|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
+|3|⬜|⬜|⬜|⬜|⬜|⬜|⬜|⬜|
+|4|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca4)|⬜|⬛|⬜|⬜|⬜|⬜|⬜|
+|5|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca5)|⬜|⬛|⬜|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg5)|⬜|
+|6|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca6)|⬜|⬜|⬜|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg6)|⬜|
+|7|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc7)| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf7)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg7)| |
 |8| | | | | | | | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -53,12 +53,12 @@ It's currently ⬜'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
-<tr><td>@djactor</td><td>⬛</td></tr>
 <tr><td>@JanBannink</td><td>⬜</td></tr>
 <tr><td>@djactor</td><td>⬛</td></tr>
 <tr><td>@JanBannink</td><td>⬜</td></tr>
 <tr><td>@djactor</td><td>⬛</td></tr>
 <tr><td>@JanBannink</td><td>⬜</td></tr>
+<tr><td>@djactor</td><td>⬛</td></tr>
 </table>
 
 </td><td>
