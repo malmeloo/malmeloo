@@ -36,26 +36,37 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1| |⬜| | | | | | |
-|2| | |⬜| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce2)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf2)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg2)|⬜|
+|2| | |⬜| | | | |⬜|
 |3| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb3)|⬜|⬜|⬜|⬛|⬜|⬜|
-|4| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb4)|⬛|⬛|⬛|⬛|⬛|⬜|
-|5| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb5)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc5)|⬜|⬜|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg5)|⬜|
-|6| | | |⬜|⬜|⬜| |⬜|
-|7| | | | | | | | |
+|4| |⬜|⬜|⬜|⬜|⬜|⬜|⬜|
+|5| | | |⬜|⬜|⬜| |⬜|
+|6| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc6)|⬜|⬜|⬜| |⬜|
+|7| | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cf7)| | |
 |8| | | | | | | | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
-<th>Winning mark</th>
+<th>Move History</th><th>Winners</th>
 </tr><tr>
 <td>
 
 <table>
+<tr><td>@JanBannink</td><td>⬜</td></tr>
+<tr><td>@djactor</td><td>⬛</td></tr>
+<tr><td>@JanBannink</td><td>⬜</td></tr>
+<tr><td>@djactor</td><td>⬛</td></tr>
+<tr><td>@JanBannink</td><td>⬜</td></tr>
+<tr><td>@djactor</td><td>⬛</td></tr>
+</table>
+
+</td><td>
+
+<table>
 <tr><td>⬜</td><td>2</td></tr>
-<tr><td>Draw</td><td>0</td></tr>
 <tr><td>⬛</td><td>0</td></tr>
+<tr><td>Draw</td><td>0</td></tr>
 </table>
 
 </td>
