@@ -3,6 +3,7 @@ import std/[tables, options, sugar, algorithm, times]
 import board
 import gamedb
 import logging
+import config
 
 type StatTable* = seq[seq[string]]
 
@@ -59,7 +60,7 @@ proc getMoveHistory*(): StatTable =
 
     result.add(@[
       "@" & move.author,
-      indexToLetters(move.pos),
+      indexToLetters(move.pos mod BOARD_SIZE_X) & $(move.pos div BOARD_SIZE_X + 1),
       $move.mark,
       dt.format("yyyy-MM-dd HH:mm:ss") & " (UTC)"
     ])
