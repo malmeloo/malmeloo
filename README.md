@@ -1,33 +1,35 @@
 ![](https://hit.yhype.me/github/profile?user_id=32306794)  <!-- YHYPE hit counter -->
 <div align="center">
   <h1>Heya! I'm Mike. 👋</h1>
-  
-  <img src="https://wakatime.com/badge/user/9555cc8c-3be5-4d08-afde-58be2d556fb0.svg">
-  <br>
-  <img src="https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white">
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
-  <img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white">
-  <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+
+  <a href="https://github.com/nim-lang/Nim"><img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=black"></a>
+  <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <br/>
+  <a href="https://blog.mikealmel.ooo"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://firefox.com"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
+  <br/>
+  <img src="https://wakapi.mikealmel.ooo/api/badge/dismissed/interval:30_days?label=Last%2030%20days">
 </div>
 
 <br/>
 
 <div>
-  <img align="right" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Favourite%20Technologies&lineHeight=30&lineCount=3&theme=catppuccin_macchiato&hideTitle=true&line1=python,Python,3776AB;nim,Nim,FFE953;javascript,JavaScript,F7DF1E;openjdk,Java,FFFFFF;&line2=podman,Podman,892CA0;nginx,Nginx,009639;linux,Linux,FCC624;wireguard,Wireguard,88171A;&line3=Pop!_OS,Pop!_OS,48B9C7;android,Android,3DDC84;magisk,Magisk,00AF9C;gnome,Gnome,4A86CF;" alt="My Tech Stack" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=dismissed&api_domain=wakapi.mikealmel.ooo&custom_title=Wakapi%20Stats&layout=compact&theme=vue-dark" alt="Wakapi Stats" />
   
   <h3 align="left" style="width: 50%">
     I'm a 19 year old programmer from the Netherlands.
   </h3>
   <ul  style="width: 50%">
     <li>🎓️ Studying TCS at the University of Twente</li>
-    <li>🐍 Bit of a Python addict</li>
-    <li>📦 Containerizing the world!</li>
+    <li>👑 Mainly addicted to <a href="https://github.com/nim-lang/Nim">Nim</a> nowadays</li>
+    <li>📦 Big fan of containers (the software kind)</li>
     <li>🧦 Socket programming hypes me up</li>
-    <li>📊 Collecting <i>all</i> the data</li>
+    <li>📊 Collecting real-world data for... reasons :D</li>
   </ul>
 </div>
 
-<br>
+<br/>
 
 <div align="left">
   <h1>🎮 Let's play Othello!</h1>
