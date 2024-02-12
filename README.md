@@ -37,16 +37,16 @@
 <!-- START GAME -->
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
-|1| | | | | | | | |
-|2| | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc2)|⬜|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce2)|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg2)| |
-|3| | |⬛|⬛|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg3)| |
-|4| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cb4)|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬜|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg4)| |
-|5|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ca5)|⬛|⬛|⬜|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg5)| |
-|6| | | |⬜|⬛|⬛|⬛|[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch6)|
-|7| | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ce7)|⬛| |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Ch7)|
-|8| | | | | | |[✓](https://github.com/DismissedGuy/dismissedguy/issues/new?title=Othello%7Cmove%7Cg8)| |
+|1| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc1)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cd1)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce1)| | | |
+|2| | | |⬜| |⬛| | |
+|3| | |⬛|⬛|⬛|⬛| | |
+|4| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬜|⬛| | |
+|5| |⬛|⬛|⬜|⬛|⬛| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch5)|
+|6| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc6)|⬜|⬜|⬜|⬜|⬜|
+|7| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cd7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce7)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch7)|
+|8| | | | | | | | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -55,12 +55,12 @@ It's currently ⬜'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@biemster</td><td>h6</td><td>⬜</td><td>2024-02-12 18:23:40 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>f2</td><td>⬛</td><td>2023-07-26 11:05:28 (UTC)</td></tr>
 <tr><td>@Elsie19</td><td>f3</td><td>⬜</td><td>2023-07-21 01:10:53 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>c3</td><td>⬛</td><td>2023-03-29 21:45:10 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>d6</td><td>⬜</td><td>2023-02-06 12:32:16 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>e3</td><td>⬛</td><td>2023-02-06 12:30:50 (UTC)</td></tr>
-<tr><td>@DismissedGuy</td><td>f4</td><td>⬜</td><td>2023-02-06 12:29:47 (UTC)</td></tr>
 </table>
 
 </td><td>
