@@ -18,14 +18,13 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=dismissed&api_domain=wakapi.mikealmel.ooo&custom_title=Wakapi%20Stats&layout=compact&theme=vue-dark" alt="Wakapi Stats" />
   
   <h3 align="left" style="width: 50%">
-    I'm a 19 year old programmer from the Netherlands.
+    I'm a 20 year old programmer from the Netherlands.
   </h3>
   <ul  style="width: 50%">
     <li>🎓️ Studying TCS at the University of Twente</li>
     <li>👑 Mainly addicted to <a href="https://github.com/nim-lang/Nim">Nim</a> nowadays</li>
     <li>📦 Big fan of containers (the software kind)</li>
     <li>🧦 Socket programming hypes me up</li>
-    <li>📊 Collecting real-world data for... reasons :D</li>
   </ul>
 </div>
 
