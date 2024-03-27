@@ -36,16 +36,16 @@
 <!-- START GAME -->
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
-|1| | | |⬛| | | | |
-|2| | | |⬛| |⬛| | |
+|1| | | |⬛| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cf1)| | |
+|2| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb2)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc2)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce2)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg2)| |
 |3| | |⬛|⬛|⬛|⬛| | |
-|4| | | |⬛|⬜|⬛| | |
-|5| |⬛|⬛|⬜|⬛|⬛| | |
-|6| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc6)|⬜|⬜|⬜|⬜|⬜|
-|7| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cd7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce7)|⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch7)|
+|4| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬜|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg4)| |
+|5| |⬛|⬛|⬛|⬛|⬛| | |
+|6| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc6)|⬛|⬛|⬜|⬜|⬜|
+|7| | | |⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce7)|⬜| | |
 |8| | | | | |⬜| | |
 
-It's currently ⬛'s turn. Click on a highlighted field to make a move!
+It's currently ⬜'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -54,12 +54,12 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@malmeloo</td><td>d7</td><td>⬛</td><td>2024-03-27 20:31:55 (UTC)</td></tr>
 <tr><td>@djactor</td><td>f8</td><td>⬜</td><td>2024-03-27 20:23:32 (UTC)</td></tr>
 <tr><td>@malmeloo</td><td>d1</td><td>⬛</td><td>2024-03-02 14:22:22 (UTC)</td></tr>
 <tr><td>@biemster</td><td>h6</td><td>⬜</td><td>2024-02-12 18:23:40 (UTC)</td></tr>
 <tr><td>@DismissedGuy</td><td>f2</td><td>⬛</td><td>2023-07-26 11:05:28 (UTC)</td></tr>
 <tr><td>@Elsie19</td><td>f3</td><td>⬜</td><td>2023-07-21 01:10:53 (UTC)</td></tr>
-<tr><td>@DismissedGuy</td><td>c3</td><td>⬛</td><td>2023-03-29 21:45:10 (UTC)</td></tr>
 </table>
 
 </td><td>
