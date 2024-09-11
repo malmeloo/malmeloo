@@ -2,26 +2,24 @@
 <div align="center">
   <h1>Heya! I'm Mike. 👋</h1>
 
-  <a href="https://github.com/nim-lang/Nim"><img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=black"></a>
   <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/nim-lang/Nim"><img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=black"></a>
   <br/>
-  <a href="https://blog.mikealmel.ooo"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://blog.mikealmel.ooo"><img src="https://img.shields.io/badge/nixos-5277C3?style=for-the-badge&logo=nixos&logoColor=white"></a>
   <a href="https://firefox.com"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
-  <br/>
-  <img src="https://wakapi.mikealmel.ooo/api/badge/dismissed/interval:30_days?label=Last%2030%20days">
 </div>
 
 <br/>
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=dismissed&api_domain=wakapi.mikealmel.ooo&custom_title=Wakapi%20Stats&layout=compact&theme=vue-dark" alt="Wakapi Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=malmeloo&show=prs_merged&layout=compact&theme=vue-dark" alt="GitHub Stats" />
   
   <h3 align="left" style="width: 50%">
-    I'm a 20 year old programmer from the Netherlands.
+    I'm a 21 year old programmer from the Netherlands.
   </h3>
   <ul  style="width: 50%">
-    <li>🎓️ Studying TCS at the University of Twente</li>
+    <li>🎓️ Studying Computer Science at the University of Twente</li>
     <li>👑 Mainly addicted to <a href="https://github.com/nim-lang/Nim">Nim</a> nowadays</li>
     <li>📦 Big fan of containers (the software kind)</li>
     <li>🧦 Socket programming hypes me up</li>
