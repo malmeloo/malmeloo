@@ -34,16 +34,16 @@
 <!-- START GAME -->
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
-|1| | | |⬛| |⬜| | |
-|2| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb2)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc2)|⬛| |⬜| | |
-|3| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb3)|⬛|⬛|⬛|⬜| | |
-|4| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬛|⬛|⬛| |
-|5| |⬛|⬛|⬛|⬛|⬛| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch5)|
-|6| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb6)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc6)|⬛|⬛|⬜|⬜|⬜|
-|7| | | |⬛| |⬜| | |
+|1| | | |⬛| |⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg1)| |
+|2| | | |⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce2)|⬜| | |
+|3| | |⬛|⬛|⬛|⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg3)| |
+|4| | | |⬛|⬜|⬛|⬛| |
+|5| |⬛|⬛|⬜|⬛|⬛| | |
+|6| | |⬜|⬜|⬜|⬜|⬜|⬜|
+|7| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc7)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce7)|⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch7)|
 |8| | | | | |⬜| | |
 
-It's currently ⬜'s turn. Click on a highlighted field to make a move!
+It's currently ⬛'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -52,12 +52,12 @@ It's currently ⬜'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@djactor</td><td>c6</td><td>⬜</td><td>2024-10-28 13:21:39 (UTC)</td></tr>
 <tr><td>@ivanikonomov</td><td>g4</td><td>⬛</td><td>2024-05-08 22:55:16 (UTC)</td></tr>
 <tr><td>@djactor</td><td>f1</td><td>⬜</td><td>2024-03-27 20:34:17 (UTC)</td></tr>
 <tr><td>@malmeloo</td><td>d7</td><td>⬛</td><td>2024-03-27 20:31:55 (UTC)</td></tr>
 <tr><td>@djactor</td><td>f8</td><td>⬜</td><td>2024-03-27 20:23:32 (UTC)</td></tr>
 <tr><td>@malmeloo</td><td>d1</td><td>⬛</td><td>2024-03-02 14:22:22 (UTC)</td></tr>
-<tr><td>@biemster</td><td>h6</td><td>⬜</td><td>2024-02-12 18:23:40 (UTC)</td></tr>
 </table>
 
 </td><td>
