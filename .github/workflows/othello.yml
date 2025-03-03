@@ -25,9 +25,9 @@ jobs:
 
       - if: ${{ steps.cache-bin.outputs.cache-hit != 'true' }}
         name: Setup Nim
-        uses: jiro4989/setup-nim-action@v1
+        uses: jiro4989/setup-nim-action@v2
         with:
-          nim-version: '1.6.10'
+          nim-version: '2.2.0'
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
       - if: ${{ steps.cache-bin.outputs.cache-hit != 'true' }}
