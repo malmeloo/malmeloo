@@ -30,6 +30,9 @@ jobs:
           nim-version: '2.2.0'
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+
       - if: ${{ steps.cache-bin.outputs.cache-hit != 'true' }}
         name: Compile program
         run: |
