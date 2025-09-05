@@ -35,15 +35,15 @@
 | |a|b|c|d|e|f|g|h|
 |-|-|-|-|-|-|-|-|-|
 |1| | | |⬛| |⬜|⬜|⬜|
-|2| | | |⬛| |⬛| | |
-|3| | |⬛|⬛|⬛|⬛|⬛| |
-|4| | | |⬛|⬜|⬛|⬛| |
-|5| |⬛|⬛|⬜|⬛|⬛| | |
-|6| | |⬜|⬜|⬜|⬜|⬜|⬜|
-|7| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc7)|⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce7)|⬜|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg7)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch7)|
-|8| | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc8)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cd8)|⬜|⬜| | |
+|2| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb2)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc2)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ce2)|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg2)| |
+|3| | |⬛|⬛|⬛|⬛|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch3)|
+|4|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ca4)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb4)|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cc4)|⬛|⬜|⬛|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ch4)|
+|5|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Ca5)|⬛|⬛|⬜|⬛|⬛|[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cg5)| |
+|6| |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cb6)|⬜|⬛|⬛|⬜|⬜|⬜|
+|7| | | |⬜|⬛|⬜| | |
+|8| | | |[✓](https://github.com/malmeloo/malmeloo/issues/new?title=Othello%7Cmove%7Cd8)|⬜|⬜| | |
 
-It's currently ⬛'s turn. Click on a highlighted field to make a move!
+It's currently ⬜'s turn. Click on a highlighted field to make a move!
 
 <table>
 <tr>
@@ -52,12 +52,12 @@ It's currently ⬛'s turn. Click on a highlighted field to make a move!
 <td>
 
 <table>
+<tr><td>@lnminh1411</td><td>e7</td><td>⬛</td><td>2025-09-05 12:15:33 (UTC)</td></tr>
 <tr><td>@syphax</td><td>e8</td><td>⬜</td><td>2025-08-27 00:55:15 (UTC)</td></tr>
 <tr><td>@manigohan</td><td>g3</td><td>⬛</td><td>2025-07-04 08:06:00 (UTC)</td></tr>
 <tr><td>@malmeloo</td><td>h1</td><td>⬜</td><td>2025-03-03 20:39:47 (UTC)</td></tr>
 <tr><td>@malmeloo</td><td>g1</td><td>⬛</td><td>2025-03-03 20:35:58 (UTC)</td></tr>
 <tr><td>@djactor</td><td>c6</td><td>⬜</td><td>2024-10-28 13:21:39 (UTC)</td></tr>
-<tr><td>@ivanikonomov</td><td>g4</td><td>⬛</td><td>2024-05-08 22:55:16 (UTC)</td></tr>
 </table>
 
 </td><td>
