@@ -16,7 +16,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=malmeloo&show=prs_merged&layout=compact&theme=vue-dark" alt="GitHub Stats" />
   
   <h3 align="left" style="width: 50%">
-    I'm a 21 year old programmer from the Netherlands.
+    I'm a 22 year old programmer from the Netherlands.
   </h3>
   <ul  style="width: 50%">
     <li>🎓️ Studying Computer Science at the University of Twente</li>
